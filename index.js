@@ -12,7 +12,7 @@ function closeNav() {
   document.body.style.backgroundColor = "white";
 }
 
-/* Link Pages in Menu
+ Link Pages in Menu
 function linkPage(){
 	var home= document.getElementById("Home")
 	home.href= "./html/index.html"
@@ -23,4 +23,4 @@ function linkPage(){
 	var contact= document.getElementById("Contact")
 	contact.href= "./html/contact.html"
 }
-*/
+
