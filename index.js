@@ -16,11 +16,11 @@ function closeNav() {
 function linkPage(){
 	var home= document.getElementById("Home")
 	home.href= "./html/index.html"
-	var music= document.getElementById("Music")
-	music.href= "./html/my-music.html"
-	var moodboards= document.getElementById("Moodboards")
-	moodboards.href= "./html/moodboards.html"
-	var contact= document.getElementById("Contact")
-	contact.href= "./html/contact.html"
+	var music= document.getElementById("Guajeo")
+	guajeo.href= "./html/guajeo.html"
+	var moodboards= document.getElementById("Clave")
+	clave.href= "./html/clave.html"
+	var contact= document.getElementById("Cantos Populares")
+	cantos.href= "./html/cantos.html"
 }
 
