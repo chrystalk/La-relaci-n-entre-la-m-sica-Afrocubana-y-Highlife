@@ -115,6 +115,19 @@ img{
   text-align: center;
 }
 
+#par {
+  background-color: #666;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+}
+#qbox {
+  background-color: #686;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+}
+
 .center{
   text-align: center;
 }
