@@ -98,6 +98,7 @@
   padding: 30px;
   text-align: center;
   font-size: 35px;
+  height: 35px;
 }
 .qbox {
   background-color: blue;
@@ -164,11 +165,4 @@ div.desc {
    text-align: center;
 }
 
-#content {
-    width:980px;
-    margin:auto; 
-    height:auto; 
-    background:#fff; 
-    overflow:auto;
-    [COLOR="Red"]overflow: hidden;[/COLOR]
-}
+
