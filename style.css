@@ -168,3 +168,11 @@ div.desc {
    background-color: lightblue;
    text-align: center;
 }
+
+#content {
+    width:980px;
+    margin:auto; 
+    height:auto; 
+    background:#fff; 
+    overflow:auto;
+}
