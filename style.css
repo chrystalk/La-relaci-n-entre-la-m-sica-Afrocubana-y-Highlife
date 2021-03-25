@@ -114,18 +114,13 @@
   font-size: 50pt;
 }
 
-.shadow{
-  text-shadow: 6px 5px #00A6A6;
-}
 
-.brown-shadow{
-  text-shadow: 6px 5px brown;
-}
 
  * {
    margin: 0;
    padding: 0;
   }
+
 .imgbox {
    display: grid;
     height: 100%;
@@ -175,4 +170,5 @@ div.desc {
     height:auto; 
     background:#fff; 
     overflow:auto;
+    [COLOR="Red"]overflow: hidden;[/COLOR]
 }
