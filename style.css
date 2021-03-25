@@ -93,13 +93,13 @@
   text-align: center;
 }
 
-#par {
+.par {
   background-color: #FB5012;
   padding: 30px;
   text-align: center;
   font-size: 35px;
 }
-#qbox {
+.qbox {
   background-color: blue;
   padding: 30px;
   text-align: center;
