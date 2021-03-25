@@ -42,28 +42,6 @@
   padding: 20px;
 }
 
-img{
-  height: 2000px;
-}
-
-.backgroundwest{
-  background-image: url(blackwestern.jpg);
-  background-color: #cccccc;
-  height: 500px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-}
-
-.backgroundme{
-  background-color: #CABAC8;
-  height: 50px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-} 
 .backgroundorange{
   background-color: #FB5012;
 }
