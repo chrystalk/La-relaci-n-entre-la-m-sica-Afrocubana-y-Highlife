@@ -93,14 +93,14 @@
   text-align: center;
 }
 
-.par {
+div.par {
   background-color: #FB5012;
   padding: 30px;
   text-align: center;
   font-size: 35px;
   height: 35px;
 }
-.qbox {
+div.qbox {
   background-color: blue;
   padding: 30px;
   text-align: center;
@@ -159,10 +159,20 @@ div.desc {
   text-align: center;
 }
 
-.parDiv {
+div.parDiv {
    border: 5px outset red;
    background-color: lightblue;
    text-align: center;
+}
+
+div.scroll {
+  background-color: #fed9ff;
+  width: 1400px;
+  height: 1000px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  text-align: center;
+  padding: 20px;
 }
 
 
