@@ -209,7 +209,7 @@ body {
 .v1_3 {
   width: 720px;
   height: 315px;
-  background: url("../images/v1_3.png");
+  background: url("../img/cuba.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -222,7 +222,7 @@ body {
 .v10_2 {
   width: 720px;
   height: 315px;
-  background: url("../images/v10_2.png");
+  background: url("../img/ghana.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -282,6 +282,20 @@ body {
   opacity: 1;
   text-align: center;
 }
+
+.ban {
+  width: 600px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 9px;
+  left: 500px;
+  font-family: Berkshire Swash;
+  font-weight: Regular;
+  font-size: 50px;
+  opacity: 1;
+  text-align: center;
+}
+
 .v10_6 {
   width: 720px;
   height: 585px;
@@ -329,4 +343,3 @@ body {
   opacity: 1;
   text-align: center;
 }
-

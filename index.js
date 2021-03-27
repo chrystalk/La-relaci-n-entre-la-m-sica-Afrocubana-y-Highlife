@@ -20,6 +20,8 @@ function linkPage(){
 	guajeo.href= "./html/guajeo.html"
 	var moodboards= document.getElementById("Clave")
 	clave.href= "./html/clave.html"
+	var contact= document.getElementById("Historia")
+	cantos.href= "./html/home.html"
 	var contact= document.getElementById("Cantos Populares")
 	cantos.href= "./html/cantos.html"
 }
