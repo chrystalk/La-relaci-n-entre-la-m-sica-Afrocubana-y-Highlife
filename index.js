@@ -26,3 +26,9 @@ function linkPage(){
 	cantos.href= "./html/cantos.html"
 }
 
+var x = document.getElementById("myAudio"); 
+
+function playAudio() { 
+  x.play(); 
+} 
+
